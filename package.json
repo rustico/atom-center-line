@@ -1,0 +1,16 @@
+{
+  "name": "atom-center-line",
+  "main": "./lib/atom-center-line",
+  "version": "1.0.0",
+  "description": "Center your current line at the top or at the middle of your screen.",
+  "activationCommands": {
+    "atom-workspace": "atom-center-line:toggle"
+  },
+  "repository": "https://github.com/rustico/atom-center-line",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
